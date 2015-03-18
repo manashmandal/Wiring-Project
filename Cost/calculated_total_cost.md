@@ -40,3 +40,14 @@
 | 16 |                           Royal Plug                           |          15 dozen         |              5/p             |              900             |                     |
 | 17 |                              Tape                              |          1 dozen          |             15/p             |              180             |                     |
 |    |                         **Total Cost**                         |                           |                              |           **16060**          |                     |
+
+### Table 4: Estimation of Total Cost
+
+| Sl | Cost Name                                        | Amount (Tk.) |
+|:--:|--------------------------------------------------|:------------:|
+| 01 | Wire & Conduit cost                              |     28558    |
+| 02 | Load Cost                                        |     27360    |
+| 03 | Electrical Accessories Cost                      |     16060    |
+|    | **Total Material Cost**                          |   **71978**  |
+|    | **Labor Cost** <br> (20% of total material cost) |   **14396**  |
+|    | **_Total Cost_**                                 |  **_86374_** |
