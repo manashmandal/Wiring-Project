@@ -9,7 +9,7 @@
 |  3 |                    4mm<sup>2</sup> (1/1.80)                    |   332m   |    40/m    |     13280    |  7 wire |
 |    |              **Total Wire & Conduit Cost**          |          |            |   **28558**  |         |
 
-***
+#
 
 #### Table 2: Estimation of quantity & cost of load
 
@@ -20,7 +20,9 @@
 |  3 | Energy Saving Light 30W <br> 26W <br> 23W <br> 20W <br> 15W <br> 11W | - <br> 4 <br> 4 <br>  2 <br> 12 <br> 9 <br> 4 | - <br>  300/p <br> 280/p <br> 280/p <br> 250/p <br> 220/p <br> 200/p  | - <br> 1200 <br> 1120 <br> 560 <br> 3000 <br> 1980 <br>  800 |            |
 |    |               **Total Load Cost**               |               |                                       |             **27360**            |            |
 
-***
+#
+#
+
 
 #### Table 3: Estimation of quantity & cost of Electrical accessories
 
