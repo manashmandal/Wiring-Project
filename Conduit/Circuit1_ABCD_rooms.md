@@ -40,11 +40,11 @@ Now,
 
 **Total length of the conduit of `Circuit 1`** = `152.24m`:
 
-					Wastage = `15.22m`
+					Wastage = 15.22m
 
 
 Now,
-	For `Circuit 1`
-	
+For `Circuit 1`
+---------------
 		Total conduit = `167.46m`
 
