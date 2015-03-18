@@ -26,3 +26,22 @@ Now,
 **Length of the conduit of the room `A`** = `21.83m`
 
 **Conduit length for `Circuit 1`** [For room `A, B, C & D`] = `21.83 * 4` = `87.32m`
+
+#### Additional conduit:
+
+*	The conduit run up to FB1 to SB1 = 7.39m
+*	The conduit run up to FB1 to SB3 = 3.73m
+*	The conduit run up to FB1 to SB6 = 3.98m
+*	The conduit run up to FB1 to SB8 = 7.34m
+*	The conduit run up to SBP to P1 = 19.73m
+*	The conduit run up to SBP to P2 = 12.19m
+*	The conduit run up to P2 to P3 = 5.08m
+*	The conduit run up to SBP to P4 = 5.48m
+
+**Total length of the conduit of `Circuit 1` = `152.24m`:
+                                        Wastage = `15.22m`
+Now: 
+
+for Circuit 1
+			Total conduit = 167.46m
+
