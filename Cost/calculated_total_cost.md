@@ -11,7 +11,6 @@
 
 --
 
-
 #### Table 2: Estimation of quantity & cost of load
 
 | Sl |                     Name                    |    Quantity   |               Rate (Tk.)              |         Amount (Tk.)         |   Remarks  |
