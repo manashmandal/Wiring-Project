@@ -30,6 +30,8 @@
 
 <br> 
 
+.
+
 | Sl |             Name             |               Type              | Quantity For Room E | Quantity For Room F | Quantity For Circuit 2 |
 |:--:|:----------------------------:|:-------------------------------:|:-------------------:|:-------------------:|:----------------------:|
 | 16 |            Socket            |  2 & 3 pin combine with switch  |          2          |          2          |            4           |
