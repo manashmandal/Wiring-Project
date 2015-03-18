@@ -7,4 +7,4 @@ Calculation of Illumination:
 
 ### For Room A
 
-Let, the illumination = `15 cd/ft<sup>2</sup>`
+Let, the illumination = 15 cd/ ft<sup>2</sup>
