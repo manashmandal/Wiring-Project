@@ -7,7 +7,7 @@ Now,
 ```
 	The wire run up to SB1 to 1A	= 0.91m              
 	The wire run up to 1A to 1C     = 0.89m       
-	The wire run up to 1C to 1B	= 1.11m          
+	The wire run up to 1C to 1B     = 1.11m          
 	The wire run up to 1C to 1D     = 1.11m      
 	The wire run up to SB1 to SB2   = 3.17m          
 	The wire run up to SB2 to 2C    = 1.09m        
