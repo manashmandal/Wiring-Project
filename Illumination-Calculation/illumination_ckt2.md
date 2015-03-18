@@ -6,7 +6,7 @@ Let, the illumination = `15` cd/ft<sup>2</sup>
 
 **So, total illumination required:**
 
-Area = 16.33 * 11.75 = 191.9 ft<sup>2</sup>
+Area = `16.33 * 11.75` = `191.9` ft<sup>2</sup>
 
 So, illumination = `(191.9 * 15) / (0.5 * 0.8)` = `7196 Lm`
 
@@ -23,7 +23,7 @@ Let, the illumination = `6` cd/ft<sup>2</sup>
 
 **So, total illumination required:**
 
-Area = 7.08 * 5.83 = 41.3 ft<sup>2</sup>
+Area = `7.08 * 5.83` = `41.3` ft<sup>2</sup>
 
 So, illumination = `(41.3 * 6) / (0.5 * 0.8)` = `619.5 Lm`
 
@@ -41,7 +41,7 @@ Let, the illumination = `7.5` cd/ft<sup>2</sup>
 
 **So, total illumination required:**
 
-Area = (5.83 * 8.58) + (4 * 16) = 114 ft<sup>2</sup>
+Area = `(5.83 * 8.58) + (4 * 16)` = `114` ft<sup>2</sup>
 
 So, illumination = `(114 * 7.5) / (0.5 * 0.8)` = `2137.5 Lm`
 
