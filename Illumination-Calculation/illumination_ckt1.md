@@ -31,6 +31,9 @@ Let, the illumination = 6 cd/ft<sup>2</sup>
 Area = 5.58 * 5.83 = 32.5ft<sup>2</sup>
 
 So, illumination= `(32.5 * 6)/ (0.5 * 0.8)` = `487.5 Lm`
+ 
+<br> 
+<br> 
 
 #### So, required light:
 
