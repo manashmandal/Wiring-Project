@@ -1,6 +1,7 @@
 ## Calculation of Length of the conduit:
 
-#### Length of the conduit used in E room:
+Length of the conduit used in E room:
+-------------------------------------
 
 Now,
 ```
@@ -40,17 +41,18 @@ The conduit run up to FB2 to P6    = 8.45m
 **Total conduit for Room E:** `34.86m`
 
 Length of conduit used in Veranda:
-
-The conduit run up to FB1 to SB5 = 4.24m
-The conduit run up to SB5 to 5C = 3.73m
-The conduit run up to 5C to 5B = 1.9m
-The conduit run up to 5B to 5A = 3.65m
-The conduit run up to FB2 to SB10 = 6.32m
-The conduit run up to SB10 to 10B = 0.3m
-The conduit run up to 10B to 10A = 3.69m
-The conduit run up to 10B to 10C = 4.59m
-
-Total conduit of Veranda: 28.42m
+-----------------------------------
+```
+The conduit run up to FB1 to SB5   = 4.24m
+The conduit run up to SB5 to 5C    = 3.73m
+The conduit run up to 5C to 5B     = 1.90m
+The conduit run up to 5B to 5A     = 3.65m
+The conduit run up to FB2 to SB10  = 6.32m
+The conduit run up to SB10 to 10B  = 0.30m
+The conduit run up to 10B to 10A   = 3.69m
+The conduit run up to 10B to 10C   = 4.59m
+```
+**Total conduit of Veranda:** `28.42m`
 
 Total conduit for Circuit 2: 94.15m
 
