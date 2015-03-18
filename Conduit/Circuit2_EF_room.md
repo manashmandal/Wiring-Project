@@ -2,7 +2,6 @@
 
 ## Length of the conduit used in room E:
 
-
 Now,
 
 * The conduit run up to FB2 to SB11  = `5.25m`
