@@ -54,7 +54,7 @@ The conduit run up to 10B to 10C   = 4.59m
 ```
 **Total conduit of Veranda:** `28.42m`
 
-For Circuit 2: 
+For `Circuit 2`: 
 --------------
       Total conduit = 94.15m
 
