@@ -2,10 +2,10 @@
 
 ## Length of the conduit used in A room:
 
-* The Height of the Light Bracket from the floor level  = 8 ft
-* The Height of the Switch from the floor level         = 5 ft
-* The Height of the Tube Light from the floor level     = 9 ft
-* The Height of the ceiling fan from the floor level    = 10ft
+* The Height of the Light Bracket from the floor level = 8 ft
+* The Height of the Switch from the floor level        = 5 ft
+* The Height of the Tube Light from the floor level    = 9 ft
+* The Height of the ceiling fan from the floor level   = 10ft
 
 
 Now,
