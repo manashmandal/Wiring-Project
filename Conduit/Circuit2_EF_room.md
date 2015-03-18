@@ -4,20 +4,20 @@
 
 Now,
 ```
-* The conduit run up to FB2 to SB11 = 5.25m
-* The conduit run up to SB11 to 11A = 1.19m
-* The conduit run up to 11A to 11C = 1.90m
-* The conduit run up to 11C to 11D  = 1.60m
-* The conduit run up to 11C to 11B = 1.60m
+* The conduit run up to FB2 to SB11  = 5.25m
+* The conduit run up to SB11 to 11A  = 1.19m
+* The conduit run up to 11A to 11C   = 1.90m
+* The conduit run up to 11C to 11D   = 1.60m
+* The conduit run up to 11C to 11B   = 1.60m
 * The conduit run up to SB11 to SB12 = 3.20m
-* The conduit run up to SB12 to 12B = 2.33m
-* The conduit run up to 12B to 12F = 2.28m
-* The conduit run up to SB12 to 12A = 1.01m
-* The conduit run up to 12A to 12C = 1.01m
-* The conduit run up to 12C to 12D  = 1.34m
-* The conduit run up to 12D to 12B = 1.98m
-* The conduit run up to P4 to P5 = 6.18m
-``
+* The conduit run up to SB12 to 12B  = 2.33m
+* The conduit run up to 12B to 12F   = 2.28m
+* The conduit run up to SB12 to 12A  = 1.01m
+* The conduit run up to 12A to 12C   = 1.01m
+* The conduit run up to 12C to 12D   = 1.34m
+* The conduit run up to 12D to 12B   = 1.98m
+* The conduit run up to P4 to P5     = 6.18m
+```
 Total conduit for Room E: 30.87m
 
 
