@@ -21,11 +21,12 @@
 |    |               **Total Load Cost**               |               |                                       |             **27360**            |            |
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
+ <br> 
+ <br> 
+ <br> 
+ <br> 
+ <br> 
+ <br> 
 
 #### Table 3: Estimation of quantity & cost of Electrical accessories
 
