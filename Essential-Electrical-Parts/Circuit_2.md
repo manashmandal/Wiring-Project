@@ -18,4 +18,4 @@
 | 14 |             Elbow            |           approximate           |                     |          15         |           15           |
 | 15 |            Couple            |           approximate           |                     |          15         |           15           |
 | 16 |            Socket            |  2 & 3 pin combine with switch  |          2          |          2          |            4           |
-| 17 |   Energy Bulb (For stairs)   |               15W               |          1          |          0          |                        |
+| 17 |   Energy Bulb (For stairs)   |               15W               |          1          |          0          |            1           |
