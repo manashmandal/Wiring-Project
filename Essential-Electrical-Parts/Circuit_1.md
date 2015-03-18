@@ -1,6 +1,6 @@
 # Essential Electrical Parts for `Circuit 1`
 
-Group                     | Domain          | First Appearance
+Group                     
 ------------------------- | --------------- | ----------------
 ShinRa                    | Mako Reactors   | FFVII
 Moogles                   | MogNet          | FFIII
