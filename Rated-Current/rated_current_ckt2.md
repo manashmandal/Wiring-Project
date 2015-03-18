@@ -95,7 +95,7 @@ For `2 & 3 Pin Combined Socket`:
 
 **Full load current = `200/220` = `0.90A`**
 
-**Total Circuit current of Room F = `1.35 + 0.61 + 0.9` = `2.86A`*
+**Total Circuit current of Room F = `1.35 + 0.61 + 0.9` = `2.86A`**
 
 Rated Current = `3.07 * 1.5` = `4.29A`
 
