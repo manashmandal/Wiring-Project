@@ -10,6 +10,7 @@ For circuit SB1:
 |        Fan       |   80W  |     1    |
 
 **Total: `256W`**
+
 **Full load current = `256/220` = `1.16A`**
 
 For circuit SB2:
@@ -22,6 +23,7 @@ For circuit SB2:
 |      Socket      |  100W  |     2    |
 
 **Total: `226W`**
+
 **Full load current = `226/220` = `1.03A`**
 
 For circuit SB3:
@@ -43,6 +45,7 @@ For `2 & 3 Pin Combined Socket`:
 | 2 & 3 Pin Combine Socket |  100W  |     2    |
 
 **Total: `200W`**
+
 **Full load current = `200/220` = `0.9A`**
 
 **Total Circuit Current for Room A = `(1.16 + 1.03 + 0.56 + 0.9)` = `3.65A`**
