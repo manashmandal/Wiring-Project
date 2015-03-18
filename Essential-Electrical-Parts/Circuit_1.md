@@ -1,7 +1,10 @@
 # Essential Electrical Parts for `Circuit 1`
 
-Group                     
-------------------------- | --------------- | ----------------
-ShinRa                    | Mako Reactors   | FFVII
-Moogles                   | MogNet          | FFIII
-Vana'diel Chocobo Society | Chocobo Raising | FFXI:TOAU
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
+
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         ||  
