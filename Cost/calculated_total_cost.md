@@ -62,4 +62,4 @@
 
 ***
 
-> Hence, the total cost of wiring for `KUET GUEST HOUSE (3rd floor)` is **86,374 Tk (Eighty Six Thousand three hundred and seventy four taka only)
+> Hence, the total cost of wiring for `KUET GUEST HOUSE (3rd floor)` is **86,374 Tk (Eighty Six Thousand three hundred and seventy four taka only)**
