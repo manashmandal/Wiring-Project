@@ -1,6 +1,7 @@
 # Essential Electrical Parts for `Circuit 1`
 
- asdasdasd              
-------------|-----------
- sdasasdasd | sadasdasd 
- dsdasdads  | asdasdasd 
+Group                     | Domain          | First Appearance
+------------------------- | --------------- | ----------------
+ShinRa                    | Mako Reactors   | FFVII
+Moogles                   | MogNet          | FFIII
+Vana'diel Chocobo Society | Chocobo Raising | FFXI:TOAU
