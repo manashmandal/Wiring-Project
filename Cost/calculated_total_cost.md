@@ -2,8 +2,6 @@
 
 #### Table 1: Estimation of quantity & cost of conduit & wire
 
-<br>
-
 | Sl |                         Name                        | Quantity | Rate (Tk.) | Amount (Tk.) | Remarks |
 |:--:|:---------------------------------------------------:|:--------:|:----------:|:------------:|:-------:|
 |  1 |                       Conduit                       |   262m   |    20/m    |     5240     |         |
@@ -47,7 +45,7 @@
 | 17 |                              Tape                              |          1 dozen          |             15/p             |              180             |                     |
 |    |                         **Total Cost**                         |                           |                              |           **16060**          |                     |
 
-___
+<br>
 
 ### Table 4: Estimation of Total Cost
 
@@ -60,6 +58,6 @@ ___
 |    | **Labor Cost** <br> (20% of total material cost) |   **14396**  |
 |    | **_Total Cost_**                                 |  **_86374_** |
 
-***
+<br>
 
 > Hence, the total cost of wiring for `KUET GUEST HOUSE (3rd floor)` is **86,374 Tk (Eighty Six Thousand three hundred and seventy four taka only)**
