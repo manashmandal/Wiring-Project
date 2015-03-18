@@ -18,6 +18,10 @@
 |  14 |    Junction Box <br> (For SB1)    |                                    |          1          |            4           |
 |  15 |             Elbow            |             Approximate            |          10         |           40           |
 |  16 |         Circular Box         |                                    |          5          |           20           |
+ 
+<br> 
+<br> 
+
 | 17  |            Couple            |             Approximate            |          5          |           20           |
 |  18 |        Circuit Breaker       |               With SB              |          2          |            8           |
 |  19 |           Regulator          |             Electronic             |          1          |            4           |
