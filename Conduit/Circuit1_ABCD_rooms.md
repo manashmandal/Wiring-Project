@@ -27,14 +27,14 @@ Now,
 
 #### Additional conduit:
 
-* The conduit run up to FB1 to SB1 = 7.39m
-* The conduit run up to FB1 to SB3 = 3.73m
-* The conduit run up to FB1 to SB6 = 3.98m
-* The conduit run up to FB1 to SB8 = 7.34m
-* The conduit run up to SBP to P1  = 19.73m
-* The conduit run up to SBP to P2  = 12.19m
-* The conduit run up to P2 to P3   = 5.08m
-* The conduit run up to SBP to P4  = 5.48m
+* The conduit run up to FB1 to SB1 = `7.39m`
+* The conduit run up to FB1 to SB3 = `3.73m`
+* The conduit run up to FB1 to SB6 = `3.98m`
+* The conduit run up to FB1 to SB8 = `7.34m`
+* The conduit run up to SBP to P1  = `19.73m`
+* The conduit run up to SBP to P2  = `12.19m`
+* The conduit run up to P2 to P3   = `5.08m`
+* The conduit run up to SBP to P4  = `5.48m`
 
 ***
 
