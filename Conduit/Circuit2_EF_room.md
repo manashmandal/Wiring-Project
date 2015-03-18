@@ -1,7 +1,7 @@
 ## Calculation of Length of the conduit:
 
-Length of the conduit used in room E:
--------------------------------------
+## Length of the conduit used in room E:
+
 
 Now,
 
@@ -21,8 +21,8 @@ Now,
 
 **Total conduit for Room E:** `30.87m`
 
-Length of the conduit used in room F:
--------------------------------------
+## Length of the conduit used in room F:
+
 
 Now,
 
@@ -40,8 +40,8 @@ Now,
 
 **Total conduit for Room E:** `34.86m`
 
-Length of conduit used in Veranda:
------------------------------------
+## Length of conduit used in Veranda:
+
 
 * The conduit run up to FB1 to SB5   = `4.24m`
 * The conduit run up to SB5 to 5C    = `3.73m`
@@ -54,7 +54,7 @@ Length of conduit used in Veranda:
 
 **Total conduit of Veranda:** `28.42m`
 
-For `Circuit 2`: 
---------------
+### For `Circuit 2`: 
+
 > Total conduit = **94.15m**
 
