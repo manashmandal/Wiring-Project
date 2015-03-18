@@ -34,7 +34,9 @@ So, illumination= `(32.5 * 6)/ (0.5 * 0.8)` = `487.5 Lm`
  
 <br> 
 <br> 
-
+<br> 
+<br> 
+ 
 #### So, required light:
 
 |       Name      | Rating | Illumination (Lm) | Quantity |
