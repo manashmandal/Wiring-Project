@@ -27,6 +27,11 @@ Area = 7.08 * 5.83 = 41.3 ft<sup>2</sup>
 
 So, illumination = `(41.3 * 6) / (0.5 * 0.8)` = `619.5 Lm`
 
+ 
+<br> 
+<br> 
+<br> 
+ 
 #### So, required light:
 
 |       Name      | Rating | Illumination (Lm) | Quantity |
