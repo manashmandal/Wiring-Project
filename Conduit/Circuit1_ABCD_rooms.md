@@ -43,8 +43,7 @@ Now,
 					Wastage = 15.22m
 
 
-Now,
 For `Circuit 1`
 ---------------
-		Total conduit = `167.46m`
+		Total conduit = 167.46m
 
