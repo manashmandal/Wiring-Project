@@ -22,6 +22,8 @@
 <br> 
 <br> 
 
+|  Sl |          Parts Name          |                Type                | Quantity For Room A | Quantity For Circuit 1 |
+|:---:|:----------------------------:|:----------------------------------:|:-------------------:|:----------------------:|
 | 17  |            Couple            |             Approximate            |          5          |           20           |
 |  18 |        Circuit Breaker       |               With SB              |          2          |            8           |
 |  19 |           Regulator          |             Electronic             |          1          |            4           |
