@@ -99,7 +99,7 @@ For `2 & 3 Pin Combined Socket`:
 
 Rated Current = `3.07 * 1.5` = `4.29A`
 
-**Hence the minimum size of wire 1.5mm<sup>2</sup> (1/1.40) is suitable for `4.29A` safety.
+**Hence the minimum size of wire 1.5mm<sup>2</sup> (1/1.40) is suitable for `4.29A` safety.**
 
 For Circuit 2:
 --------------
@@ -110,4 +110,4 @@ Total Current = `1544/220` = `7.02A`
 
 Hence **Rated Current** = `7.4 * 1.5` = `10.5A`
 
-**Hence The minimum size of wire 2.5mm<sup>2</sup> (1/1.80) is suitable for `12.88 Amp` safety.
+**Hence The minimum size of wire 2.5mm<sup>2</sup> (1/1.80) is suitable for `12.88 Amp` safety.**
