@@ -11,7 +11,7 @@ Let, the illumination = `15` cd/ft<sup>2</sup>
 
 **So, total illumination required:**
 
-Area = 12.75 * 11.75 = 149.8 ft<sup>2</sup>
+Area = `12.75 * 11.75` = `149.8` ft<sup>2</sup>
 
 So, illumination= `(149.8 * 15) / (0.5 * 0.8)` = `5618 Lm`
 
@@ -24,11 +24,11 @@ So, illumination= `(149.8 * 15) / (0.5 * 0.8)` = `5618 Lm`
 
 ### For Toilet A
 
-Let, the illumination = 6 cd/ft<sup>2</sup>
+Let, the illumination = `6` cd/ft<sup>2</sup>
 
 **So, total illumination required:**
 
-Area = 5.58 * 5.83 = 32.5ft<sup>2</sup>
+Area = `5.58 * 5.83` = `32.5`ft<sup>2</sup>
 
 So, illumination= `(32.5 * 6)/ (0.5 * 0.8)` = `487.5 Lm`
  
@@ -45,11 +45,11 @@ So, illumination= `(32.5 * 6)/ (0.5 * 0.8)` = `487.5 Lm`
 
 ### For Veranda A:
 
-Let, the illumination = 7.5 cd/ft<sup>2</sup>
+Let, the illumination = `7.5` cd/ft<sup>2</sup>
 
 **So, total illumination required:**
 
-Area = 6.75 * 5.83 = 39.4ft<sup>2</sup>
+Area = `6.75 * 5.83` = `39.4`ft<sup>2</sup>
 
 So, illumination= `(39.4 * 7.5)/ (0.5 * 0.8)` = `738 Lm`
 
@@ -61,11 +61,11 @@ So, illumination= `(39.4 * 7.5)/ (0.5 * 0.8)` = `738 Lm`
 
 ### For Front Veranda A:
 
-Let, the illumination = 7.5 cd/ft<sup>2</sup>
+Let, the illumination = `7.5` cd/ft<sup>2</sup>
 
 **So, total illumination required:**
 
-Area = 12.75 * 5.92 = 75.5ft<sup>2</sup>
+Area = `12.75 * 5.92` = 75.5ft<sup>2</sup>
 
 So, illumination= `(75.5 * 7.5)/ (0.5 * 0.8)` = `1415.6 Lm`
 
