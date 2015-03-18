@@ -45,9 +45,6 @@
 | 17 |                              Tape                              |          1 dozen          |             15/p             |              180             |                     |
 |    |                         **Total Cost**                         |                           |                              |           **16060**          |                     |
 
-***
-
-
 
 ### Table 4: Estimation of Total Cost
 
