@@ -20,7 +20,23 @@
 
 ## Table 3: Estimation of quantity & cost of Electrical accessories
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the <br> first column | Content in the second column
+| Sl |                              Name                              |          Quantity         |          Rate (Tk.)          |         Amount (Tk.)         |       Remarks       |
+|:--:|:--------------------------------------------------------------:|:-------------------------:|:----------------------------:|:----------------------------:|:-------------------:|
+| 01 |          Light Holder <br> (1) Ceiling <br> (2) Wall           |     - <br> 14 <br> 22     |    - <br>  50/p <br> 30/p    |      - <br> 700 <br> 660     |                     |
+| 02 |           Socket: <br> (1) Two Pin <br> (2) Three Pin          |      - <br> 6 <br> 6      |    - <br> 35/p <br> 160/p    |      - <br> 210 <br> 960     |                     |
+| 03 |                          Switch Board                          |             10            |             160/p            |             1600             |                     |
+| 04 |                             Switch                             |             68            |             25/p             |             1700             |      Electronic     |
+| 05 |                     Main Distribution Board                    |             1             |            2500/p            |             2500             | With 2 single Phase |
+| 06 |                         Circuit Breaker                        |             12            |             150/p            |             1800             |                     |
+| 07 |                            Regulator                           |             4             |             160/p            |              640             |      Electronic     |
+| 08 |                             Outlet                             |             4             |             40/p             |              160             |                     |
+| 09 |                         Telecom outlet                         |             4             |             180/p            |              720             |                     |
+| 10 |                            TV outlet                           |             2             |             180/p            |              360             |                     |
+| 11 |                          Junction Box                          |             4             |             400/p            |             1600             |         4/7         |
+| 12 | Conduit Accessories: <br> Elbow <br> Coupler <br> Circular Box | - <br> 55 <br> 35 <br> 50 | - <br> 3/p <br> 3/p <br> 6/p | - <br> 165 <br> 105 <br> 300 |                     |
+| 13 |                              Screw                             |          15 dozen         |           10/dozen           |              150             |                     |
+| 14 |                            PVC glue                            |            15p            |             30/p             |              450             |                     |
+| 15 |                          Ceiling nose                          |             8p            |             25/p             |              200             |                     |
+| 16 |                           Royal Plug                           |          15 dozen         |              5/p             |              900             |                     |
+| 17 |                              Tape                              |          1 dozen          |             15/p             |              180             |                     |
+|    |                         **Total Cost**                         |                           |                              |           **16060**          |                     |
