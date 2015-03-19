@@ -5,13 +5,16 @@ In designing a building structure one of the most and foremost concerns is elect
 
 # About This Project:
 
-This project is based on the wiring design of the under construction KUET guest house. It is placed at the north side of the Administration building and east side of dormitory. Here the wiring is established for the third floor of the building.
+As a course of Electrical & Electronic Shop Practice we were assigned to design the wiring system and estimate total cost of 3<sup>rd</sup> Floor of KUET GUEST HOUSE which is still under construction.
 
-The architectural view is shown first to see the whole building and to make it easy for an electrical engineer to have a total view of it. Then the load is applied on the top view. Again wiring means conduit is placed another picture of the structure. As it is a guest house, it has some great view of office, multipurpose hall, pavement etc. Here also 3-pin power point is applied. Using this air condition can be established further. The illumination is calculated to obtain the usable light and its placing. The maximum current is calculated from the load calculation. The conduit size as well as wire size and length are calculated.  Hence considering all other equipment cost and labor cost the optimum cost is calculated for the 3rd floor. 
+It is placed at the north side of the Administration building and east side of dormitory. Here the wiring is established for the third floor of the building.
+
+The architectural view is shown first to see the whole building and to make it easy for an electrical engineer to have a total view of it. Then the load is applied on the top view. Again wiring means conduit is placed another picture of the structure. As it is a guest house, it has some great view of office, multipurpose hall, pavement etc. Here also 3-pin power point is applied. Using this air condition can be established further. The illumination is calculated to obtain the usable light and its placing. The maximum current is calculated from the load calculation. The conduit size as well as wire size and length are calculated.  Hence considering all other equipment cost and labor cost the optimum cost is calculated for the 3<sup>rd</sup> floor. 
 
 Here the total wiring system is divided into 2 circuits. Each circuit has main switch with circuit breaker.
 
-The `1st` circuit = single phase and it covered room `A, B, C & D`
+The `1st` circuit = single phase and it covered room A, B, C & D
 
-The `2nd` circuit = single phase and it covered room `E & F`
+The `2nd` circuit = single phase and it covered room E & F
+
 
