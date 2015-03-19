@@ -11,6 +11,7 @@ The architectural view is shown first to see the whole building and to make it e
 
 Here the total wiring system is divided into 2 circuits. Each circuit has main switch with circuit breaker.
 
-The `1st` circuit = single phase and it covered room `A, B, C & D`0
+The `1st` circuit = single phase and it covered room `A, B, C & D`
+
 The `2nd` circuit = single phase and it covered room `E & F`
 
